@@ -1,0 +1,438 @@
+,Movie,Year,Ratings,Metascores,Userscores,Comparison,Difference
+0,Citizen Kane,"September 4, 1941", | Approved,100.0,85.0,True,15.0
+1,The Godfather,"March 11, 1972", | R,100.0,92.0,True,8.0
+2,Rear Window,"September 1, 1954", | TV-G,100.0,88.0,True,12.0
+3,Casablanca,"January 23, 1943", | TV-PG,100.0,89.0,True,11.0
+4,Boyhood,"July 11, 2014", | R,100.0,76.0,True,24.0
+5,Three Colors: Red,"November 23, 1994", | R,100.0,86.0,True,14.0
+6,Vertigo,"May 28, 1958", | PG,100.0,88.0,True,12.0
+7,Notorious,"September 6, 1946", | Approved,100.0,79.0,True,21.0
+8,Singin' in the Rain,"April 11, 1952", | G,99.0,88.0,True,11.0
+9,City Lights,"March 7, 1931", | Passed,99.0,90.0,True,9.0
+10,Moonlight,"October 21, 2016", | Not Rated,99.0,71.0,True,28.0
+11,Intolerance,"September 5, 1916", | Not Rated,99.0,90.0,True,9.0
+12,Pinocchio,"February 23, 1940", | Passed,99.0,82.0,True,17.0
+13,Touch of Evil,"February 1, 1958", | PG-13,99.0,84.0,True,15.0
+14,The Treasure of the Sierra Madre,"January 24, 1948", | TV-PG,98.0,85.0,True,13.0
+15,Pan's Labyrinth,"December 29, 2006", | R,98.0,87.0,True,11.0
+16,Some Like It Hot,"March 29, 1959", | Approved,98.0,83.0,True,15.0
+17,North by Northwest,"August 6, 1959", | TV-G,98.0,82.0,True,16.0
+19,Hoop Dreams,"October 14, 1994", | PG-13,98.0,81.0,True,17.0
+20,Rashomon,"December 26, 1951", | Not Rated,98.0,86.0,True,12.0
+21,All About Eve,"October 27, 1950", | TV-PG,98.0,88.0,True,10.0
+22,Jules and Jim,"April 23, 1962", | Not Rated,97.0,83.0,True,14.0
+23,The Wild Bunch,"June 18, 1969", | R,97.0,80.0,True,17.0
+24,My Left Foot,"March 30, 1990", | R,97.0,85.0,True,12.0
+25,The Third Man,"September 3, 1949", | Approved,97.0,84.0,True,13.0
+26,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964", | GP,97.0,83.0,True,14.0
+27,Gone with the Wind,"January 17, 1940", | TV-PG,97.0,85.0,True,12.0
+28,"4 Months, 3 Weeks and 2 Days","January 23, 2008", | Not Rated,97.0,80.0,True,17.0
+29,Psycho,"September 8, 1960", | M,97.0,91.0,True,6.0
+30,Battleship Potemkin,"December 5, 1926", | Not Rated,97.0,96.0,True,1.0
+31,A Streetcar Named Desire,"September 19, 1951", | M/PG,97.0,84.0,True,13.0
+32,American Graffiti,"August 11, 1973", | PG,97.0,77.0,True,20.0
+33,Dumbo,"October 31, 1941", | Approved,96.0,80.0,True,16.0
+34,Roma,"November 21, 2018", | Not Rated,96.0,78.0,True,18.0
+35,Ran,"December 20, 1985", | R,96.0,85.0,True,11.0
+36,The Shop Around the Corner,"January 12, 1940", | Passed,96.0,86.0,True,10.0
+37,12 Angry Men,"April 1, 1957", | TV-PG,96.0,93.0,True,3.0
+38,Manchester by the Sea,"November 18, 2016", | R,96.0,82.0,True,14.0
+39,Rosemary's Baby,"June 12, 1968", | Approved,96.0,82.0,True,14.0
+40,The Maltese Falcon,"October 18, 1941", | TV-PG,96.0,79.0,True,17.0
+41,12 Years a Slave,"October 18, 2013", | R,96.0,80.0,True,16.0
+42,Killer of Sheep,"March 30, 2007", | Not Rated,96.0,69.0,True,27.0
+44,Nashville,"June 11, 1975", | R,96.0,88.0,True,8.0
+45,Ratatouille,"June 29, 2007", | G,96.0,86.0,True,10.0
+46,Parasite,"October 11, 2019", | Not Rated,96.0,89.0,True,7.0
+47,Don't Look Now,"December 9, 1973", | R,96.0,86.0,True,10.0
+48,The Grapes of Wrath,"March 15, 1940", | Approved,96.0,89.0,True,7.0
+49,Children of Paradise (1945),"March 9, 2012", | Not Rated,96.0,90.0,True,6.0
+50,Mean Streets,"October 14, 1973", | R,96.0,76.0,True,20.0
+51,The Lady Eve,"March 21, 1941", | Passed,96.0,70.0,True,26.0
+52,Gravity,"October 4, 2013", | PG-13,96.0,78.0,True,18.0
+53,Fantasia,"November 13, 1940", | Approved,96.0,85.0,True,11.0
+54,Spirited Away,"September 20, 2002", | PG,96.0,90.0,True,6.0
+55,Beauty and the Beast,"November 22, 1991", | G,95.0,86.0,True,9.0
+56,Toy Story,"November 22, 1995", | TV-G,95.0,90.0,True,5.0
+57,The Bride of Frankenstein,"May 6, 1935", | TV-PG,95.0,86.0,True,9.0
+58,The Social Network,"October 1, 2010", | PG-13,95.0,82.0,True,13.0
+59,My Fair Lady,"December 25, 1964", | G,95.0,85.0,True,10.0
+60,Portrait of a Lady on Fire,"December 6, 2019", | R,95.0,87.0,True,8.0
+61,I Am Not Your Negro,"December 9, 2016", | PG-13,95.0,54.0,True,41.0
+63,Double Indemnity,"July 6, 1944", | Passed,95.0,84.0,True,11.0
+64,Collective,"November 20, 2020", | Not Rated,95.0,73.0,True,22.0
+65,Snow White and the Seven Dwarfs,"February 4, 1938", | G,95.0,82.0,True,13.0
+66,The Hurt Locker,"June 26, 2009", | R,95.0,73.0,True,22.0
+67,Anatomy of a Murder,"July 1, 1959", | TV-PG,95.0,83.0,True,12.0
+68,Zero Dark Thirty,"December 19, 2012", | R,95.0,69.0,True,26.0
+69,A Separation,"December 30, 2011", | PG-13,95.0,89.0,True,6.0
+70,Small Axe: Lovers Rock,"November 27, 2020", | Not Rated,95.0,62.0,True,33.0
+71,WALL-E,"June 27, 2008", | G,95.0,89.0,True,6.0
+72,Carol,"November 20, 2015", | R,94.0,80.0,True,14.0
+73,Before Midnight,"May 24, 2013", | R,94.0,84.0,True,10.0
+74,Amour,"December 19, 2012", | PG-13,94.0,81.0,True,13.0
+75,Dunkirk,"July 21, 2017", | PG-13,94.0,83.0,True,11.0
+76,The Man Who Shot Liberty Valance,"April 22, 1962", | Approved,94.0,86.0,True,8.0
+77,The Searchers,"May 26, 1956", | Passed,94.0,78.0,True,16.0
+78,45 Years,"December 23, 2015", | Not Rated,94.0,74.0,True,20.0
+79,Taxi Driver,"February 7, 1976", | R,94.0,75.0,True,19.0
+80,Pulp Fiction,"October 14, 1994", | R,94.0,90.0,True,4.0
+81,The Manchurian Candidate,"October 24, 1962", | Approved,94.0,82.0,True,12.0
+82,Mr. Turner,"December 19, 2014", | R,94.0,69.0,True,25.0
+83,The Irishman,"November 1, 2019", | R,94.0,81.0,True,13.0
+84,Grave of the Fireflies (1988),"July 26, 1989", | TV-14,94.0,93.0,True,1.0
+86,Amazing Grace,"November 23, 2018",None,94.0,84.0,True,10.0
+87,Shadow of a Doubt,"January 15, 1943", | TV-PG,94.0,85.0,True,9.0
+88,Inside Out,"June 19, 2015", | PG,94.0,87.0,True,7.0
+89,Sideways,"October 22, 2004", | R,94.0,71.0,True,23.0
+90,Schindler's List,"December 15, 1993", | R,94.0,88.0,True,6.0
+91,The Apartment,"June 15, 1960", | TV-PG,94.0,91.0,True,3.0
+92,Apocalypse Now,"August 15, 1979", | R,94.0,89.0,True,5.0
+93,The Gunfighter,"June 23, 1950", | TV-PG,94.0,79.0,True,15.0
+94,We Were Here,"September 9, 2011", | Not Rated,94.0,69.0,True,25.0
+95,Lady Bird,"November 3, 2017", | R,94.0,76.0,True,18.0
+97,The Lord of the Rings: The Return of the King,"December 17, 2003", | PG-13,94.0,91.0,True,3.0
+98,Carlos,"October 15, 2010", | Not Rated,94.0,79.0,True,15.0
+99,Marriage Story,"November 6, 2019", | Not Rated,94.0,82.0,True,12.0
+100,No Country for Old Men,"November 9, 2007", | R,91.0,78.0,True,13.0
+101,The Gatekeepers,"February 1, 2013", | PG-13,91.0,67.0,True,24.0
+102,Nostalgia for the Light,"March 18, 2011", | Not Rated,91.0,79.0,True,12.0
+104,Saving Private Ryan,"July 24, 1998", | TV-MA,91.0,89.0,True,2.0
+105,After Hours,"September 13, 1985", | R,90.0,79.0,True,11.0
+106,Her,"December 18, 2013", | R,90.0,86.0,True,4.0
+107,The Crying Game,"November 25, 1992", | R,90.0,77.0,True,13.0
+109,Burning,"October 26, 2018", | Not Rated,90.0,78.0,True,12.0
+110,Winter's Bone,"June 11, 2010", | R,90.0,73.0,True,17.0
+111,Gett: The Trial of Viviane Amsalem,"February 13, 2015", | Not Rated,90.0,76.0,True,14.0
+112,I Called Him Morgan,"March 24, 2017", | Not Rated,90.0,67.0,True,23.0
+113,Close Encounters of the Third Kind,"November 16, 1977", | PG,90.0,78.0,True,12.0
+114,The Godfather: Part II,"December 12, 1974", | R,90.0,90.0,False,0.0
+115,The Hustler,"September 25, 1961", | TV-PG,90.0,89.0,True,1.0
+116,L.A. Confidential,"September 19, 1997", | TV-MA,90.0,89.0,True,1.0
+117,Bloody Sunday,"October 4, 2002", | R,90.0,85.0,True,5.0
+118,My Voyage to Italy,"October 19, 2001", | PG-13,90.0,71.0,True,19.0
+119,Phantom Thread,"December 25, 2017", | R,90.0,77.0,True,13.0
+120,Goodfellas,"September 1, 1990", | R,90.0,89.0,True,1.0
+121,Hamilton,"July 3, 2020", | PG-13,90.0,78.0,True,12.0
+122,Paths of the Soul,"May 13, 2016", | Not Rated,90.0,53.0,True,37.0
+123,It's Such a Beautiful Day,"October 5, 2012", | Not Rated,90.0,89.0,True,1.0
+124,My Perestroika,"March 23, 2011", | Not Rated,90.0,73.0,True,17.0
+125,This Is Not a Film,"March 2, 2012", | Not Rated,90.0,63.0,True,27.0
+126,The Birds,"March 29, 1963", | PG-13,90.0,83.0,True,7.0
+127,Finding Nemo,"May 30, 2003", | G,90.0,87.0,True,3.0
+128,Topsy-Turvy,"December 17, 1999", | R,90.0,79.0,True,11.0
+130,King Kong,"April 7, 1933", | Passed,90.0,84.0,True,6.0
+131,The Incredibles,"November 5, 2004", | PG,90.0,88.0,True,2.0
+132,Before Sunset,"July 2, 2004", | R,90.0,87.0,True,3.0
+133,Being John Malkovich,"October 29, 1999", | R,90.0,88.0,True,2.0
+134,A Prophet,"February 26, 2010", | R,90.0,85.0,True,5.0
+135,Hard to Be a God,"January 30, 2015", | Not Rated,90.0,54.0,True,36.0
+136,Almost Famous,"September 13, 2000", | Unrated,90.0,69.0,True,21.0
+137,Paths of Glory,"December 25, 1957", | TV-14,90.0,90.0,False,0.0
+138,Cold War,"December 21, 2018", | R,90.0,79.0,True,11.0
+139,Small Axe: Mangrove,"November 20, 2020", | Not Rated,90.0,67.0,True,23.0
+140,Big Men,"March 14, 2014", | Not Rated,90.0,74.0,True,16.0
+141,American Splendor,"August 15, 2003", | TV-MA,90.0,79.0,True,11.0
+142,Hannah and Her Sisters,"February 1, 1986", | PG-13,90.0,80.0,True,10.0
+143,The Circus,"January 1, 1929", | G,90.0,85.0,True,5.0
+144,The Tale,"May 26, 2018", | TV-MA,90.0,72.0,True,18.0
+145,Gosford Park,"December 26, 2001", | TV-MA,90.0,73.0,True,17.0
+146,Dirty Harry,"December 23, 1971", | R,90.0,83.0,True,7.0
+147,The Fits,"June 3, 2016", | Not Rated,90.0,67.0,True,23.0
+148,Mad Max: Fury Road,"May 15, 2015", | R,90.0,86.0,True,4.0
+149,United 93,"April 28, 2006", | R,90.0,76.0,True,14.0
+150,Capturing the Friedmans,"May 30, 2003", | Not Rated,90.0,79.0,True,11.0
+151,The Truman Show,"June 5, 1998", | PG,90.0,70.0,True,20.0
+152,American Hustle,"December 13, 2013", | R,90.0,73.0,True,17.0
+153,Paterson,"December 28, 2016", | R,90.0,79.0,True,11.0
+154,Star Wars: Episode IV - A New Hope,"May 25, 1977", | PG,90.0,88.0,True,2.0
+155,Persepolis,"December 25, 2007", | PG-13,90.0,87.0,True,3.0
+156,The Age of Innocence,"September 17, 1993", | PG,90.0,80.0,True,10.0
+157,Minding the Gap,"August 17, 2018", | Not Rated,90.0,82.0,True,8.0
+158,The Best of Youth,"March 2, 2005", | R,89.0,88.0,True,1.0
+159,The Overnighters,"October 10, 2014", | PG-13,89.0,75.0,True,14.0
+160,The Lives of Others,"December 1, 2006", | R,89.0,89.0,False,0.0
+162,House of Flying Daggers,"December 3, 2004", | PG-13,89.0,91.0,False,-2.0
+165,Lost in Translation,"September 12, 2003", | R,89.0,76.0,True,13.0
+166,Blue Is the Warmest Color,"October 25, 2013", | NC-17,89.0,78.0,True,11.0
+167,Searching for Bobby Fischer,"August 11, 1993", | PG,89.0,87.0,True,2.0
+169,Assault on Precinct 13,"November 5, 1976", | R,89.0,72.0,True,17.0
+170,Man on Wire,"July 25, 2008", | PG-13,89.0,83.0,True,6.0
+171,For Sama,"July 26, 2019", | Not Rated,89.0,75.0,True,14.0
+172,Howards End,"March 13, 1992", | PG,89.0,82.0,True,7.0
+175,Still Walking,"August 21, 2009",None,89.0,87.0,True,2.0
+176,Gangs of Wasseypur,"January 16, 2015", | R,89.0,87.0,True,2.0
+177,The Last Detail,"December 12, 1973", | R,89.0,78.0,True,11.0
+179,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,"November 3, 2006", | R,89.0,74.0,True,15.0
+180,Barry Lyndon,"December 18, 1975", | PG,89.0,88.0,True,1.0
+181,The Farewell,"July 12, 2019", | Not Rated,89.0,83.0,True,6.0
+182,Elle,"November 11, 2016", | R,89.0,73.0,True,16.0
+183,The Tale of The Princess Kaguya,"October 17, 2014", | PG,89.0,86.0,True,3.0
+184,Uncertain,"March 10, 2017", | Not Rated,89.0,85.0,True,4.0
+185,"Two Days, One Night","December 24, 2014", | PG-13,89.0,85.0,True,4.0
+187,Eighth Grade,"July 13, 2018", | R,89.0,80.0,True,9.0
+188,A Star Is Born,"October 16, 1954", | Passed,89.0,85.0,True,4.0
+189,No End in Sight,"July 27, 2007",None,89.0,82.0,True,7.0
+190,It's a Wonderful Life,"January 7, 1947", | Approved,89.0,92.0,False,-3.0
+191,The Madness of King George,"December 28, 1994", | PG-13,89.0,75.0,True,14.0
+192,Phoenix,"July 24, 2015", | PG-13,89.0,78.0,True,11.0
+193,Goodbye Solo,"March 27, 2009", | R,89.0,75.0,True,14.0
+194,Western,"September 25, 2015", | Not Rated,89.0,71.0,True,18.0
+195,Stop Making Sense,"October 18, 1984",None,89.0,87.0,True,2.0
+196,Deep Red,"June 11, 1976", | Not Rated,89.0,81.0,True,8.0
+197,Downhill Racer,"November 7, 1969", | PG,89.0,80.0,True,9.0
+198,Alien,"June 22, 1979", | R,89.0,90.0,False,-1.0
+199,Columbus,"August 4, 2017", | Not Rated,89.0,74.0,True,15.0
+200,The Long Goodbye,"March 7, 1973", | R,87.0,78.0,True,9.0
+202,Pain and Glory,"October 4, 2019", | Not Rated,87.0,80.0,True,7.0
+204,The Farthest,"August 11, 2017", | Not Rated,87.0,67.0,True,20.0
+205,Gomorrah,"February 13, 2009", | Not Rated,87.0,72.0,True,15.0
+206,To Be and to Have,"September 19, 2003",None,87.0,77.0,True,10.0
+207,Halloween,"October 25, 1978", | R,87.0,88.0,False,-1.0
+208,Eraserhead,"February 3, 1978", | Not Rated,87.0,79.0,True,8.0
+210,Fire at Sea,"October 21, 2016", | Not Rated,87.0,68.0,True,19.0
+211,The Fugitive,"August 6, 1993", | PG-13,87.0,88.0,False,-1.0
+213,About Elly (2009),"April 8, 2015", | Not Rated,87.0,87.0,False,0.0
+214,The Bridge on the River Kwai,"December 14, 1957", | TV-PG,87.0,85.0,True,2.0
+215,Goldfinger,"January 9, 1965", | GP,87.0,84.0,True,3.0
+216,One False Move,"May 8, 1992", | R,87.0,76.0,True,11.0
+218,Jane,"October 20, 2017", | PG,87.0,83.0,True,4.0
+219,Jaws,"June 20, 1975", | PG,87.0,87.0,False,0.0
+220,We Are the Best!,"May 30, 2014", | Not Rated,87.0,76.0,True,11.0
+221,Spartacus,"October 19, 1960", | Approved,87.0,84.0,True,3.0
+222,Back to the Future,"July 3, 1985", | PG,87.0,90.0,False,-3.0
+223,If Beale Street Could Talk,"December 14, 2018", | R,87.0,71.0,True,16.0
+225,Ma Rainey's Black Bottom,"November 25, 2020", | R,87.0,53.0,True,34.0
+226,Wallace & Gromit: The Curse of the Were-Rabbit,"October 5, 2005", | G,87.0,82.0,True,5.0
+227,The Diary of a Teenage Girl,"August 7, 2015", | R,87.0,65.0,True,22.0
+228,Elena,"May 18, 2012", | Not Rated,87.0,74.0,True,13.0
+229,All Is Lost,"October 18, 2013", | PG-13,87.0,67.0,True,20.0
+230,Hereditary,"June 8, 2018", | R,87.0,72.0,True,15.0
+231,Listen to Me Marlon,"July 29, 2015", | Not Rated,87.0,83.0,True,4.0
+232,Gideon's Army,"June 28, 2013", | Not Rated,87.0,85.0,True,2.0
+233,Serpico (re-release),"August 6, 2004", | R,87.0,85.0,True,2.0
+234,Maria Full of Grace,"July 16, 2004", | R,87.0,25.0,True,62.0
+235,Fateless,"January 6, 2006", | R,87.0,76.0,True,11.0
+236,Happy as Lazzaro,"November 30, 2018", | Not Rated,87.0,79.0,True,8.0
+237,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,"December 19, 2003", | PG-13,87.0,86.0,True,1.0
+238,Uncle Boonmee Who Can Recall His Past Lives,"March 4, 2011", | Not Rated,87.0,71.0,True,16.0
+239,Brokeback Mountain,"December 9, 2005", | R,87.0,83.0,True,4.0
+240,Cemetery of Splendor,"March 4, 2016", | Not Rated,87.0,65.0,True,22.0
+241,The Kid with a Bike,"March 16, 2012", | Not Rated,87.0,75.0,True,12.0
+243,Spider-Man: Into the Spider-Verse,"December 14, 2018", | PG,87.0,88.0,False,-1.0
+244,The Wicker Man,"August 7, 1974", | R,87.0,77.0,True,10.0
+245,Love & Friendship,"May 13, 2016", | Not Rated,87.0,69.0,True,18.0
+246,Particle Fever,"March 5, 2014", | Not Rated,87.0,81.0,True,6.0
+247,Tarnation,"October 6, 2004", | Unrated,87.0,71.0,True,16.0
+248,Murderball,"July 8, 2005", | R,87.0,84.0,True,3.0
+249,Life Itself,"July 4, 2014", | R,87.0,83.0,True,4.0
+250,The Shape of Water,"December 1, 2017", | R,87.0,70.0,True,17.0
+251,Rewind,"May 8, 2020", | Not Rated,87.0,64.0,True,23.0
+252,Wolfwalkers,"November 13, 2020", | PG,87.0,78.0,True,9.0
+253,Shine,"November 20, 1996", | PG-13,87.0,83.0,True,4.0
+254,Bisbee '17,"September 5, 2018", | Not Rated,87.0,43.0,True,44.0
+255,Grizzly Man,"August 12, 2005", | R,87.0,72.0,True,15.0
+257,Gregory Crewdson: Brief Encounters,"November 2, 2012", | Not Rated,87.0,67.0,True,20.0
+258,Moneyball,"September 23, 2011", | PG-13,87.0,80.0,True,7.0
+260,All About My Mother,"November 19, 1999", | R,87.0,85.0,True,2.0
+261,The English Patient,"November 15, 1996", | R,87.0,74.0,True,13.0
+262,The Duke of Burgundy,"January 23, 2015", | Not Rated,87.0,69.0,True,18.0
+263,My Golden Days,"March 18, 2016", | Not Rated,87.0,68.0,True,19.0
+264,Nebraska,"November 15, 2013", | R,87.0,80.0,True,7.0
+267,Force Majeure,"October 24, 2014", | R,87.0,76.0,True,11.0
+269,Blow Out,"July 24, 1981", | R,86.0,80.0,True,6.0
+270,Diane,"March 29, 2019", | NR,86.0,72.0,True,14.0
+273,Russian Ark,"November 29, 2002", | Not Rated,86.0,76.0,True,10.0
+275,Lincoln,"November 9, 2012", | PG-13,86.0,75.0,True,11.0
+276,The Wolf House,"May 15, 2020", | Not Rated,86.0,86.0,False,0.0
+277,An Elephant Sitting Still,"March 8, 2019", | Not Rated,86.0,88.0,False,-2.0
+278,Room,"October 16, 2015", | R,86.0,83.0,True,3.0
+279,The Tillman Story,"August 20, 2010", | R,86.0,73.0,True,13.0
+280,The Wind Will Carry Us,"July 28, 2000",None,86.0,76.0,True,10.0
+281,"sex, lies, and videotape","August 4, 1989", | R,86.0,78.0,True,8.0
+282,Dog Day Afternoon,"December 25, 1975", | R,86.0,86.0,False,0.0
+283,To Be or Not to Be,"March 6, 1942", | Passed,86.0,80.0,True,6.0
+285,Welcome to Chechnya,"June 30, 2020", | Not Rated,86.0,74.0,True,12.0
+286,Like Water for Chocolate,"May 28, 1993", | R,86.0,77.0,True,9.0
+287,Ordinary People,"September 18, 1980", | R,86.0,65.0,True,21.0
+288,Divine Love,"November 13, 2020", | Not Rated,86.0,85.0,True,1.0
+290,Stand Clear of the Closing Doors,"May 23, 2014", | Not Rated,86.0,68.0,True,18.0
+291,Dreamcatcher,"March 20, 2015",None,86.0,63.0,True,23.0
+293,To Die For,"September 27, 1995", | R,86.0,88.0,False,-2.0
+294,The Deer Hunter,"December 8, 1978", | R,86.0,77.0,True,9.0
+295,Million Dollar Baby,"December 15, 2004", | PG-13,86.0,75.0,True,11.0
+296,42: Forty Two Up,"November 17, 1999",None,86.0,87.0,False,-1.0
+297,The Straight Story,"October 15, 1999", | G,86.0,84.0,True,2.0
+298,Krisha,"March 18, 2016", | R,86.0,80.0,True,6.0
+299,Dawson City: Frozen Time,"June 9, 2017", | Not Rated,86.0,61.0,True,25.0
+300,Children Underground,"September 19, 2001",None,85.0,76.0,True,9.0
+301,You Can Count on Me,"November 10, 2000", | R,85.0,85.0,False,0.0
+302,Boogie Nights,"October 10, 1997", | TV-MA,85.0,45.0,True,40.0
+303,City of Life and Death,"May 11, 2011", | R,85.0,78.0,True,7.0
+304,Song of the Sea,"December 19, 2014", | PG,85.0,83.0,True,2.0
+305,Amy,"July 3, 2015", | Not Rated,85.0,83.0,True,2.0
+306,The Edge of Heaven,"May 21, 2008",None,85.0,87.0,False,-2.0
+307,The Savages,"November 28, 2007", | R,85.0,75.0,True,10.0
+308,Birds of Passage,"February 13, 2019", | Not Rated,85.0,78.0,True,7.0
+309,Ilo Ilo,"April 4, 2014", | Not Rated,85.0,78.0,True,7.0
+310,First Reformed,"May 18, 2018", | Not Rated,85.0,75.0,True,10.0
+311,Lebanon,"August 6, 2010", | R,85.0,64.0,True,21.0
+312,The Treasure,"January 8, 2016", | Not Rated,85.0,70.0,True,15.0
+313,Atlantics,"November 15, 2019", | Not Rated,85.0,63.0,True,22.0
+315,Night Will Fall,"November 21, 2014", | Not Rated,85.0,78.0,True,7.0
+316,The Endurance,"September 21, 2001", | G,85.0,85.0,False,0.0
+317,Exit Through the Gift Shop,"April 16, 2010", | R,85.0,81.0,True,4.0
+318,Girlhood,"January 30, 2015", | Not Rated,85.0,72.0,True,13.0
+319,In the Mood for Love,"February 2, 2001", | PG,85.0,78.0,True,7.0
+321,Offside,"March 23, 2007", | PG,85.0,79.0,True,6.0
+322,The Ornithologist,"June 23, 2017", | Unrated,85.0,59.0,True,26.0
+323,El Dorado,"June 7, 1967", | TV-PG,85.0,70.0,True,15.0
+324,Sleeping Beauty,"January 29, 1959", | Approved,85.0,81.0,True,4.0
+327,Easy Rider,"July 14, 1969", | R,85.0,76.0,True,9.0
+328,Knocked Up,"June 1, 2007", | R,85.0,67.0,True,18.0
+329,"Distant Voices, Still Lives","September 11, 1988", | PG-13,85.0,78.0,True,7.0
+330,Turtles Can Fly,"February 18, 2005", | PG-13,85.0,87.0,False,-2.0
+331,The Departed,"October 6, 2006", | R,85.0,73.0,True,12.0
+332,April and the Extraordinary World,"March 25, 2016", | PG,85.0,75.0,True,10.0
+333,Festival Express,"July 30, 2004", | R,85.0,62.0,True,23.0
+334,"Spring, Summer, Fall, Winter... and Spring","April 2, 2004", | R,85.0,84.0,True,1.0
+335,An Education,"October 9, 2009", | PG-13,85.0,78.0,True,7.0
+336,Varda by Agnès,"November 22, 2019", | Not Rated,85.0,70.0,True,15.0
+337,Tinker Tailor Soldier Spy,"December 9, 2011", | R,85.0,66.0,True,19.0
+338,Harakiri,"August 4, 1964", | Not Rated,85.0,89.0,False,-4.0
+339,Ash Is Purest White,"March 15, 2019", | Not Rated,85.0,71.0,True,14.0
+340,Half Nelson,"August 11, 2006", | R,85.0,78.0,True,7.0
+341,Vincere,"March 19, 2010", | Unrated,85.0,70.0,True,15.0
+343,Fargo,"March 8, 1996", | R,85.0,87.0,False,-2.0
+344,Street Fight,"February 22, 2006",None,85.0,75.0,True,10.0
+345,Before the Devil Knows You're Dead,"October 26, 2007", | R,85.0,83.0,True,2.0
+346,Unforgiven,"August 7, 1992", | R,85.0,84.0,True,1.0
+348,Get Out,"February 24, 2017", | R,85.0,74.0,True,11.0
+350,About Schmidt,"December 13, 2002", | R,85.0,75.0,True,10.0
+352,Hero,"August 27, 2004", | PG-13,85.0,90.0,False,-5.0
+353,"Hale County This Morning, This Evening","September 14, 2018", | Not Rated,85.0,61.0,True,24.0
+354,Neil Young: Heart of Gold,"February 10, 2006", | PG,85.0,85.0,False,0.0
+355,Mudbound,"November 17, 2017", | R,85.0,67.0,True,18.0
+356,My Life as a Zucchini,"February 24, 2017", | Not Rated,85.0,83.0,True,2.0
+357,The Silence of the Lambs,"February 13, 1991", | R,85.0,89.0,False,-4.0
+358,Hedwig and the Angry Inch,"July 20, 2001", | R,85.0,84.0,True,1.0
+359,The Last Seduction,"October 26, 1994", | R,85.0,84.0,True,1.0
+360,The Conversation,"April 7, 1974", | PG,85.0,85.0,False,0.0
+361,God's Own Country,"October 25, 2017", | Not Rated,85.0,83.0,True,2.0
+362,Kaili Blues,"May 20, 2016", | Not Rated,85.0,74.0,True,11.0
+363,The Intruder,"December 23, 2005",None,85.0,48.0,True,37.0
+364,Mulholland Dr.,"October 12, 2001", | R,85.0,71.0,True,14.0
+365,The Wages of Fear (1953),"December 9, 2011", | Not Rated,85.0,83.0,True,2.0
+366,Forbidden Lie$,"April 3, 2009",None,85.0,80.0,True,5.0
+367,Behemoth,"January 27, 2017", | Not Rated,85.0,57.0,True,28.0
+368,The Sun,"November 20, 2009",None,85.0,68.0,True,17.0
+369,The Past,"December 20, 2013", | PG-13,85.0,82.0,True,3.0
+370,One Child Nation,"August 9, 2019", | R,85.0,81.0,True,4.0
+371,Cinderella,"March 4, 1950", | Approved,85.0,77.0,True,8.0
+372,24 Hour Party People,"August 9, 2002", | TV-MA,85.0,89.0,False,-4.0
+374,Atonement,"December 7, 2007", | R,85.0,79.0,True,6.0
+375,The Tree of Life,"May 27, 2011", | PG-13,85.0,70.0,True,15.0
+376,Alexandra,"March 26, 2008",None,85.0,73.0,True,12.0
+377,The Host,"March 9, 2007", | R,85.0,69.0,True,16.0
+378,The Departure,"October 13, 2017", | Not Rated,85.0,85.0,False,0.0
+380,Restrepo,"June 25, 2010", | R,85.0,76.0,True,9.0
+381,Summer Hours,"May 15, 2009",None,85.0,71.0,True,14.0
+382,Grisbi (re-release),"September 5, 2003",None,85.0,85.0,False,0.0
+383,Out of Sight,"June 26, 1998", | R,85.0,85.0,False,0.0
+384,Women on the Verge of a Nervous Breakdown,"November 11, 1988", | R,85.0,82.0,True,3.0
+385,Support the Girls,"August 24, 2018", | Not Rated,85.0,68.0,True,17.0
+386,The Iron Giant,"August 6, 1999", | PG,85.0,88.0,False,-3.0
+387,Won't You Be My Neighbor?,"June 8, 2018", | Not Rated,85.0,85.0,False,0.0
+388,Passing Strange,"August 21, 2009", | Not Rated,85.0,77.0,True,8.0
+389,Meek's Cutoff,"April 8, 2011", | PG,85.0,62.0,True,23.0
+390,Three Colors: Blue,"September 3, 1993", | R,85.0,90.0,False,-5.0
+391,The Long Day Closes,"May 28, 1993", | PG,85.0,63.0,True,22.0
+392,Fruitvale Station,"July 12, 2013", | R,85.0,79.0,True,6.0
+393,Carrie,"November 16, 1976", | R,85.0,83.0,True,2.0
+395,Since Otar Left,"April 30, 2004", | Unrated,85.0,77.0,True,8.0
+396,The Circle,"April 13, 2001", | Not Rated,85.0,63.0,True,22.0
+397,Sound and Fury,"October 25, 2000",None,85.0,70.0,True,15.0
+398,Paragraph 175,"September 13, 2000",None,85.0,78.0,True,7.0
+399,Atlantic City,"April 3, 1981", | R,85.0,53.0,True,32.0
+400,Happy-Go-Lucky,"October 10, 2008", | R,84.0,80.0,True,4.0
+401,Lassie,"September 1, 2006", | PG,84.0,71.0,True,13.0
+402,Shrek,"May 18, 2001", | PG,84.0,88.0,False,-4.0
+404,Dave Chappelle's Block Party,"March 3, 2006", | R,84.0,74.0,True,10.0
+405,Victor Victoria,"March 19, 1982", | PG,84.0,79.0,True,5.0
+407,The Quiet American,"November 22, 2002", | TV-MA,84.0,87.0,False,-3.0
+408,The Pinochet Case,"September 11, 2002",None,84.0,81.0,True,3.0
+409,The Day I Became a Woman,"April 6, 2001",None,84.0,62.0,True,22.0
+410,Sense and Sensibility,"December 13, 1995", | PG,84.0,83.0,True,1.0
+411,Weiner,"May 20, 2016", | R,84.0,73.0,True,11.0
+412,Stalag 17,"June 6, 1953", | TV-PG,84.0,76.0,True,8.0
+413,Iraq in Fragments,"November 10, 2006",None,84.0,67.0,True,17.0
+414,The Cove,"July 31, 2009", | PG-13,84.0,82.0,True,2.0
+415,Rocco and His Brothers (re-release),"July 5, 2002", | Approved,84.0,76.0,True,8.0
+416,Mutual Appreciation,"September 1, 2006", | Unrated,84.0,61.0,True,23.0
+418,Stray Dogs,"September 12, 2014", | Not Rated,84.0,63.0,True,21.0
+419,13 Assassins,"April 29, 2011", | R,84.0,79.0,True,5.0
+420,Dracula: Pages from a Virgin's Diary,"May 14, 2003",None,84.0,58.0,True,26.0
+421,Together,"August 24, 2001", | R,84.0,78.0,True,6.0
+423,Guy and Madeline on a Park Bench,"November 5, 2010",None,83.0,64.0,True,19.0
+424,Crazy Heart,"December 16, 2009", | R,83.0,75.0,True,8.0
+425,The Fool,"September 16, 2015", | Not Rated,83.0,81.0,True,2.0
+426,Everybody Wants Some!!,"March 30, 2016", | R,83.0,70.0,True,13.0
+427,De Palma,"June 10, 2016", | R,83.0,78.0,True,5.0
+428,A Little Princess,"May 20, 1995", | G,83.0,75.0,True,8.0
+429,The Last Black Man in San Francisco,"June 7, 2019", | Not Rated,83.0,73.0,True,10.0
+431,Custody,"June 29, 2018", | Not Rated,83.0,74.0,True,9.0
+432,Under the Shadow,"October 7, 2016", | Not Rated,83.0,77.0,True,6.0
+433,Adaptation.,"December 6, 2002", | R,83.0,82.0,True,1.0
+434,Fighter,"August 24, 2001",None,83.0,85.0,False,-2.0
+437,Avatar,"December 18, 2009", | PG-13,83.0,75.0,True,8.0
+438,The Forbidden Room,"October 7, 2015", | Not Rated,83.0,80.0,True,3.0
+440,Network,"November 14, 1976", | R,83.0,87.0,False,-4.0
+441,An American in Paris,"November 11, 1951", | Passed,83.0,55.0,True,28.0
+442,The Secret of the Grain,"December 24, 2008", | Unrated,83.0,74.0,True,9.0
+443,Trainspotting,"July 19, 1996", | R,83.0,87.0,False,-4.0
+444,Welcome to the Dollhouse,"March 22, 1996", | R,83.0,81.0,True,2.0
+445,The Graduate,"December 21, 1967", | PG,83.0,74.0,True,9.0
+448,Fantastic Mr. Fox,"November 13, 2009", | PG,83.0,83.0,False,0.0
+449,In the Loop,"July 24, 2009",None,83.0,79.0,True,4.0
+450,Bus 174,"October 8, 2003", | R,83.0,76.0,True,7.0
+451,Osama,"February 6, 2004", | PG-13,83.0,63.0,True,20.0
+452,Amores Perros,"March 30, 2001", | R,83.0,53.0,True,30.0
+453,The Gleaners & I,"March 7, 2001",None,83.0,90.0,False,-7.0
+455,The Salt of the Earth,"March 27, 2015", | PG-13,83.0,83.0,False,0.0
+456,Glory,"April 12, 2017", | Not Rated,83.0,70.0,True,13.0
+457,Rat Film,"September 15, 2017", | Not Rated,83.0,53.0,True,30.0
+458,One Flew Over the Cuckoo's Nest,"November 19, 1975", | R,83.0,88.0,False,-5.0
+459,Office,"September 18, 2015", | Not Rated,83.0,60.0,True,23.0
+460,Being There,"December 19, 1979", | TV-PG,83.0,80.0,True,3.0
+461,Chop Shop,"February 27, 2008", | Unrated,83.0,77.0,True,6.0
+462,Kiki's Delivery Service,"July 29, 1989", | G,83.0,86.0,False,-3.0
+463,Once Upon a Time ... in Hollywood,"July 26, 2019", | R,83.0,75.0,True,8.0
+464,Raising Victor Vargas,"March 28, 2003", | R,83.0,63.0,True,20.0
+465,Who Framed Roger Rabbit,"June 21, 1988", | PG,83.0,88.0,False,-5.0
+467,The Cave,"October 18, 2019", | PG-13,83.0,70.0,True,13.0
+468,'71,"February 27, 2015", | R,83.0,75.0,True,8.0
+469,The Guilty,"October 19, 2018", | Not Rated,83.0,81.0,True,2.0
+470,Blackfish,"July 19, 2013", | PG-13,83.0,82.0,True,1.0
+471,The Witch,"February 19, 2016", | R,83.0,73.0,True,10.0
+472,Juliet of the Spirits (re-release),"May 18, 2001",None,83.0,74.0,True,9.0
+474,Corpse Bride,"September 16, 2005", | PG,83.0,79.0,True,4.0
+475,Project Nim,"July 8, 2011", | Not Rated,83.0,75.0,True,8.0
+476,The Wind Rises,"November 8, 2013", | PG-13,83.0,83.0,False,0.0
+478,The Lighthouse,"October 18, 2019", | Not Rated,83.0,80.0,True,3.0
+479,Spider-Man 2,"June 30, 2004", | PG-13,83.0,87.0,False,-4.0
+481,Saint Frances,"February 28, 2020", | Not Rated,83.0,73.0,True,10.0
+482,20 Feet from Stardom,"June 14, 2013", | PG-13,83.0,74.0,True,9.0
+483,When We Were Kings,"October 25, 1996", | PG,83.0,89.0,False,-6.0
+484,Kurt Cobain: Montage of Heck,"April 24, 2015", | TV-MA,83.0,78.0,True,5.0
+485,20th Century Women,"December 28, 2016", | R,83.0,74.0,True,9.0
+487,Paranoid Park,"March 7, 2008", | R,83.0,66.0,True,17.0
+489,Pina,"December 23, 2011", | PG,83.0,72.0,True,11.0
+490,Animal Kingdom,"August 13, 2010", | R,83.0,78.0,True,5.0
+492,Rosie,"July 19, 2019", | PG-13,83.0,63.0,True,20.0
+493,A Room with a View,"April 1, 1986", | R,83.0,82.0,True,1.0
+494,Hugo ,"November 23, 2011", | PG,83.0,77.0,True,6.0
+495,The LEGO Movie,"February 7, 2014", | PG,83.0,83.0,False,0.0
+496,Gloria,"January 24, 2014", | R,83.0,71.0,True,12.0
+497,Ixcanul,"August 19, 2016", | Not Rated,83.0,83.0,False,0.0
+498,The Selfish Giant,"December 20, 2013", | Not Rated,83.0,78.0,True,5.0
+499,The Day He Arrives,"April 20, 2012", | Not Rated,83.0,73.0,True,10.0
