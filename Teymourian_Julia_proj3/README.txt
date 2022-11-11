@@ -1,6 +1,3 @@
-DSCI 510 Project
-Hello! Welcome to Julia Teymourian's final project for DSCI 510.
-
 The necessary libraries to run the code are located in the environment folder. However, all of the libraries should be included in Anaconda. In the event your Anaconda does not have these packages I will list them below.
 
 conda install pandas
